@@ -11,23 +11,19 @@ Braking Distance Prediction Application Overview
 
 The analysis of the relationship between vehicle speed and braking distance can impact the lives of individuals in regard to changes in speeding laws and car design
 
-There is evidence that the variability in the stopping distances increase with speed
-
 This 'Shiny' web application predicts the vehicle stopping distance based on the vehicle speed as specified by the user
 
 Cars dataset, containing fifty speed and stopping distance observations from the 1920s, from the r datasets package, is used to train a simple linear regression model
 
-This presentation contains documentation for this 'Shiny' web application found here:[Shiny App] (https://je94pe98.shinyapps.io/VehicleBrakingDistancePredictionShinyApplication)
+This presentation contains documentation for the 'Shiny' web application found here:[Shiny App] (https://je94pe98.shinyapps.io/VehicleBrakingDistancePredictionShinyApplication)
 
 
-The Shiny server.R and ui.R application code and Rstudio Presenter code can be found on github here:[GitHub repo]
+The Shiny server.R and ui.R application code and Rstudio Presenter code can be found on github here:[GitHub repo](https://github.com/jpeters64/Shiny-Application-and-Reproducible-Pitch-Course-Project)
 
 
 Cars Dataset
 ========================================================
-Cars dataset from the r datasets package 
-
-The dataset gives the speed of cars and the distances taken to stop recorded in the 1920s
+Cars dataset from the r datasets package gives the speed of cars and the distances taken to stop recorded in the 1920s
 
 The dataset has 50 observations and two variables:
 
