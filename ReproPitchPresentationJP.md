@@ -11,7 +11,7 @@ Braking Distance Prediction Application Overview
 
 The analysis of the relationship between vehicle speed and braking distance can impact the lives of individuals in regard to changes in speeding laws and car design
 
-There is evidence that the variability in the stopping distances increase with speed.
+There is evidence that the variability in the stopping distances increase with speed
 
 This 'Shiny' web application predicts the vehicle stopping distance based on the vehicle speed as specified by the user
 
