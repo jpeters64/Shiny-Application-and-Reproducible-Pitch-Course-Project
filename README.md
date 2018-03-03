@@ -8,7 +8,7 @@ This repository contains R code and an R Markdown file for a Vehicle Braking Dis
 
 This 'Shiny' web application predicts the vehicle stopping distance based on the vehicle speed as specified by the user
 
-The Rpubs link to the presentation explaining the shiny application is: http://rpubs.com/je94PE98/366065
+The Rpubs link to the presentation explaining the shiny application is: http://rpubs.com/je94PE98/366073
 
 The Rstudio's shiny server link to the application is: https://je94pe98.shinyapps.io/VehicleBrakingDistancePredictionShinyApplication/
 

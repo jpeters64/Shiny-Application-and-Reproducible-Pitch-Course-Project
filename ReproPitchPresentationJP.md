@@ -15,7 +15,7 @@ This 'Shiny' web application predicts the vehicle stopping distance based on the
 
 Cars dataset, containing fifty speed and stopping distance observations from the 1920s, from the r datasets package, is used to train a simple linear regression model
 
-This presentation contains documentation for the 'Shiny' web application found here: [Shiny App] (https://je94pe98.shinyapps.io/VehicleBrakingDistancePredictionShinyApplication)
+This presentation contains documentation for the 'Shiny' web application found here:  https://je94pe98.shinyapps.io/VehicleBrakingDistancePredictionShinyApplication
 
 
 Cars Dataset
@@ -65,4 +65,4 @@ Predict the stopping distance
 
 modpred <- predict(modfit, newdata = data.frame(speed = input$mph))
 
-The Shiny server.R and ui.R application code and Rstudio Presenter code can be found on github here: [GitHub repo](https://github.com/jpeters64/Shiny-Application-and-Reproducible-Pitch-Course-Project)
+The Shiny server.R and ui.R application code and Rstudio Presenter code can be found on github here: https://github.com/jpeters64/Shiny-Application-and-Reproducible-Pitch-Course-Project
